@@ -3,8 +3,6 @@
 **BookBot** is a simple Python command-line program that analyzes a text file (like a book) and reports useful statistics about it.  
 It counts the total number of words and displays how many times each character appears in the text.
 
----
-
 ## Features
 
 - Reads and analyzes any `.txt` file.
@@ -12,8 +10,6 @@ It counts the total number of words and displays how many times each character a
 - Counts how many times each character appears (case-insensitive).
 - Displays results sorted by character frequency.
 - Simple command-line interface.
-
----
 
 ## How It Works
 
